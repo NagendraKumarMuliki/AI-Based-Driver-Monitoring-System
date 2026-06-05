@@ -6,7 +6,14 @@
 This project is a complete AI-powered driver safety solution that monitors the driver’s face and behavior in real time. It detects drowsiness, distraction, phone usage, yawning, blinking, and head tilt using MediaPipe, YOLOv8, and an Arduino-based alert module. The system provides instant warnings to reduce accidents caused by fatigue or inattention.
 
 ---
+## 🎥 Demo Video
 
+<video src="https://github.com/NagendraKumarMuliki/AI-Based-Driver-Monitoring-System/raw/main/images/AI-Based-Driver-Monitoring-System-DEMO.mp4" 
+       controls 
+       width="700">
+</video>
+
+---
 ## 🔧 Technologies Used  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
