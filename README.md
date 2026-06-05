@@ -8,10 +8,7 @@ This project is a complete AI-powered driver safety solution that monitors the d
 ---
 ## 🎥 Demo Video
 
-<video src="https://github.com/NagendraKumarMuliki/AI-Based-Driver-Monitoring-System/raw/main/images/AI-Based-Driver-Monitoring-System-DEMO.mp4" 
-       controls 
-       width="700">
-</video>
+[📥 Download Demo Video](https://raw.githubusercontent.com/NagendraKumarMuliki/AI-Based-Driver-Monitoring-System/refs/heads/main/images/AI-Based-Driver-Monitoring-System-DEMO.mp4)
 
 ---
 ## 🔧 Technologies Used  
